@@ -1,4 +1,5 @@
 Extracting this out of VMware communities, just in case.
+https://community.broadcom.com/vmware-cloud-foundation/viewdocument/the-trials-of-gpu-passthrough-and-w?CommunityKey=185ca20b-b56d-41b3-a4b8-aad095f0d970&tab=librarydocuments
 
 The trials of GPU passthrough and Windows 8.1 (using ESXI 5.5 and View 5.3) 
  
